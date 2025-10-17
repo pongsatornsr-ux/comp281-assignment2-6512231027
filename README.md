@@ -1,14 +1,14 @@
 # three-3D
 
 ## ข้อมูลผู้จัดทำ
-- ชื่อ: นาย พิสิษฐ์ มีวิรัตน์
-- รหัสนักศึกษา: 6512231029
+- ชื่อ: นาย พงศธร ศรีกุม
+- รหัสนักศึกษา: 6512231027
 - เรียนร่วม
 
 ## โครงสร้างโปรเจกต์
 -models
   
-   models/cartoon_hut_3d_modal_pack.glb
+   models/forest_hut.glb
  
    models/mountain.glb
 
@@ -58,5 +58,6 @@
 7.ต้นไม้ (Cylinder + Sphere จัดเรียงเป็นแถวอย่างเป็นระเบียบ)
 
 ## ลิงก์วิดีโออธิบาย
-[YouTube Link](https://youtu.be/6DpEl0kXfVA) 
+[YouTube Link]https://www.youtube.com/watch?v=uy7MjTbLRGI
+
 
